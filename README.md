@@ -34,7 +34,7 @@ Beyond formal education, I've independently learned several technologies and fra
 *   🌍  I'm based in Skövde
 *   🖥️  See my portfolio at [Phadonia.com](http://phadonia.com)
 *   ✉️  You can contact me at [albinkarlsson2003@gmail.com](mailto:albinkarlsson2003@gmail.com)
-*   🚀  I'm currently working on [My portfolio](http://github.com/Albin0825/Website)
+*   🚀  I'm currently working on [My portfolio](http://github.com/Albin0825/Website), CV Maker (link coming soon)
 *   🧠  I'm learning TypeScript, C# .NET
 *   ⚡  I like playing video games and program
 <!-- *   🤝  I'm open to collaborating on asd -->
