@@ -22,9 +22,10 @@ My dedicated programming journey began in 2019 at NTI Gymnasiet Skövde, where I
 - Practical Experience: During a 10-week workplace-based learning phase, I was tasked with enhancing a company's task and time reporting system. The project was initially described as using JS, PHP, and MariaDB. However, I quickly discovered it also included Bootstrap, CKeditor, jQuery and Codeigniter. These were tools I had never worked with before, and I had to navigate through the project without any documentation that explained the existing codebase or the tools used.
 #### Self-Learned Skills
 Beyond formal education, I've independently learned several technologies and frameworks in my free time:
+- DNS
 - Firebase
 - C#
-- Next.js (React)
+- Next.js
 - Vue
 - TypeScript
 - Tailwind CSS
