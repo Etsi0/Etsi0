@@ -76,6 +76,6 @@ Beyond formal education, I've independently learned several technologies and fra
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Albin0825"><img src="https://github-readme-stats.vercel.app/api?username=Albin0825&show_icons=true&hide=&count_private=true&title_color=2020af&text_color=dadadf&icon_color=2020af&bg_color=03030a&hide_border=true&show_icons=true" alt="Albin0825's GitHub stats" /></a>
+<a href="http://www.github.com/Albin0825"><img src="https://github-readme-stats.vercel.app/api?username=Albin0825&show_icons=true&hide=&count_private=true&title_color=5858e0&text_color=e5e5ea&icon_color=000000&bg_color=16161d&hide_border=true&show_icons=true" alt="Albin0825's GitHub stats" /></a>
 
-<a href="https://github.com/Albin0825" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albin0825&langs_count=10&title_color=2020af&text_color=dadadf&icon_color=2020af&bg_color=03030a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Albin0825" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albin0825&langs_count=10&title_color=5858e0&text_color=e5e5ea&icon_color=000000&bg_color=16161d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
