@@ -72,10 +72,3 @@ Beyond formal education, I've independently learned several technologies and fra
   <a href="https://discord.com/users/850433812089012335" target="_blank" rel="noreferrer"><img src="./icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
   <a href="https://www.codepen.io/albinkarlsson" target="_blank" rel="noreferrer"><img src="./icons/socials/codepen.svg" width="32" height="32" alt="CodePen" /></a>
 </p>
-
-### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Albin0825"><img src="https://github-readme-stats.vercel.app/api?username=Albin0825&show_icons=true&hide=&count_private=true&title_color=5858e0&text_color=e5e5ea&icon_color=000000&bg_color=16161d&hide_border=true&show_icons=true" alt="Albin0825's GitHub stats" /></a>
-
-<a href="https://github.com/Albin0825" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albin0825&langs_count=10&title_color=5858e0&text_color=e5e5ea&icon_color=000000&bg_color=16161d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
