@@ -24,12 +24,12 @@ My dedicated programming journey began in 2019 at NTI Gymnasiet Skövde, where I
 Beyond formal education, I've independently learned several technologies and frameworks in my free time:
 - DNS, Firebase, C#, Next.js, Vue, TypeScript, Tailwind CSS
 #### My Portfolio
-[My portfolio](https://phadonia.com/) is built using Firebase, Next.js (React), TypeScript, and Tailwind CSS, showcasing my skills and personal projects.
+[My portfolio](https://phadonia.com/) is built using Vercel, Next.js (React), TypeScript, Tailwind CSS and a little bit of shadcn/ui, showcasing my skills and personal projects.
 
 *   🌍  I'm based in Skövde
 *   🖥️  See my portfolio at [Phadonia.com](http://phadonia.com) (WIP)
 *   ✉️  You can contact me at [albinkarlsson2003@gmail.com](mailto:albinkarlsson2003@gmail.com)
-*   🚀  I'm currently working on [My portfolio](http://github.com/Albin0825/Website), CV Maker (link coming soon)
+*   🚀  I'm currently working on [My portfolio](http://github.com/Etsi0/Website), CV Maker (link coming soon)
 *   🧠  I'm learning TypeScript, C# .NET
 *   ⚡  I like playing video games and program
 <!-- *   🤝  I'm open to collaborating on asd -->
@@ -66,9 +66,9 @@ Beyond formal education, I've independently learned several technologies and fra
 ### Socials
                   
 <p align="left">
-  <a href="https://www.github.com/Albin0825" target="_blank" rel="noreferrer"><img src="./icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.github.com/Etsi0" target="_blank" rel="noreferrer"><img src="./icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/albinkarlsson2003" target="_blank" rel="noreferrer"><img src="./icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
   <a href="https://www.twitch.tv/etsi0" target="_blank" rel="noreferrer"><img src="./icons/socials/twitch.svg" width="32" height="32" alt="Twitch" /></a>
   <a href="https://discord.com/users/850433812089012335" target="_blank" rel="noreferrer"><img src="./icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-  <a href="https://www.codepen.io/albinkarlsson" target="_blank" rel="noreferrer"><img src="./icons/socials/codepen.svg" width="32" height="32" alt="CodePen" /></a>
+  <a href="https://www.codepen.io/Etsi0" target="_blank" rel="noreferrer"><img src="./icons/socials/codepen.svg" width="32" height="32" alt="CodePen" /></a>
 </p>
