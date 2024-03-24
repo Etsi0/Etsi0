@@ -6,25 +6,16 @@ Full-stack developer
 
 ### My Programming Journey
 #### 2019-2023: NTI Gymnasiet Skövde
-My dedicated programming journey began in 2019 at NTI Gymnasiet Skövde, where I spent four years diving deep into the world of coding.
-#### Year 1
-- Learned: Python
-#### Year 2
-- Advanced to: Java, JavaScript
-- Design Skills: Photoshop (drawing and image manipulation), Illustrator, but I chose Figma over Illustrator, a decision initially questioned by instructors. Interestingly, two years later, the school considered incorporating Figma into the curriculum.
-#### Year 3
-- Continued with: JavaScript
-- Added: Git, MySQL, PHP
-- Highlight: Won the “Game On” competition, a challenge exclusive to third-year students, as the lead programmer of my team.
-#### Year 4
-- Focused on: Kotlin, Linux, MySQL, PHP, React
-- Integration: Used Git in all projects.
-- Practical Experience: During a 10-week workplace-based learning phase, I was tasked with enhancing a company's task and time reporting system. The project was initially described as using JS, PHP, and MariaDB. However, I quickly discovered it also included Bootstrap, CKeditor, jQuery and Codeigniter. These were tools I had never worked with before, and I had to navigate through the project without any documentation that explained the existing codebase or the tools used.
+- Git
+- Java, JavaScript, Kotlin, Linux, MySQL, PHP, Python, React
+- Photoshop, Figma (evne though they wanted us to use Illustrator)
+- 10-weeks workplace-based learning
+- Highlight
+  > Won "Game On" two years in a row as the the lead programmer, in this competition you use JS canvas to make a game in two weaks.
 #### Self-Learned Skills
-Beyond formal education, I've independently learned several technologies and frameworks in my free time:
 - DNS, Firebase, C#, Next.js, Vue, TypeScript, Tailwind CSS
 #### My Portfolio
-[My portfolio](https://phadonia.com/) is built using Vercel, Next.js (React), TypeScript, Tailwind CSS and a little bit of shadcn/ui, showcasing my skills and personal projects.
+[My portfolio](https://phadonia.com/) is built using Vercel, Next.js (React), TypeScript, Tailwind CSS and a little bit of shadcn/ui
 
 *   🌍  I'm based in Skövde
 *   🖥️  See my portfolio at [Phadonia.com](http://phadonia.com) (WIP)
