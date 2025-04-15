@@ -11,7 +11,7 @@
 
 ### My Programming Journey
 * 2019-2023: NTI Gymnasiet Skövde
-* 2024-2024: cs50x
+* 2024-2024: CS50x
 * 2024-Precent: [MaxPA](https://www.maxpa.se/)
 
 ### Skills 
