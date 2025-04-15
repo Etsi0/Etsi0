@@ -10,8 +10,9 @@
 *   🚀  I'm currently working on [My portfolio](http://github.com/Etsi0/Website), [CV Maker](https://github.com/Etsi0/cv-maker), [Class Collapse](https://github.com/Etsi0/class-collapse), [Phadonia Search](https://github.com/Etsi0/search)
 
 ### My Programming Journey
-#### 2019-2023: NTI Gymnasiet Skövde
-#### 2024-Precent: [MaxPA](https://www.maxpa.se/)
+* 2019-2023: NTI Gymnasiet Skövde
+* 2024-2024: cs50x
+* 2024-Precent: [MaxPA](https://www.maxpa.se/)
 
 ### Skills 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="./icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
